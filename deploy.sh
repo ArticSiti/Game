@@ -20,6 +20,6 @@ git commit -m 'deploy'
 #git push -f git@github.com:articsiti.github.io/.github.io.git master
 
 # если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:ArticSiti.github.io/games.git main:gh-pages
+git push -f git@github.com:ArticSiti.github.io/game.git main:gh-pages
 
-cd - https://articsiti.github.io/games/
+cd - https://articsiti.github.io/game/
